@@ -10,12 +10,12 @@
         android:layout_height="wrap_content"
         android:text="Add Visitor"/>
     <Button
-        android:id="@+id/but1"
+        android:id="@+id/but2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="View All"/>
     <Button
-        android:id="@+id/but1"
+        android:id="@+id/but3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Search Visitor"/>
